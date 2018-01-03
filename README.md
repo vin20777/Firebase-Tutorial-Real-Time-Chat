@@ -1,3 +1,4 @@
 # Firebase-Tutorial-Real-time-Chat
-## 請看我的 Medium Thanks
-### https://medium.com/@vin20777/ios-swift-4-real-time-chat-feat-firebase-5b0283b65fab
+## All Credit goes to [raywenderlich.com](https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2)
+### Please Look at my Medium Thanks(Chinese Only)
+#### https://medium.com/@vin20777/ios-swift-4-real-time-chat-feat-firebase-5b0283b65fab
